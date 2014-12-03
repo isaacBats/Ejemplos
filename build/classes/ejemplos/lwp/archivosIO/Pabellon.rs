@@ -1,9 +1,0 @@
-ejemplos.lwp.archivosIO.Ventana$2
-ejemplos.lwp.archivosIO.Ventana$3
-ejemplos.lwp.archivosIO.Ventana$1
-ejemplos.lwp.archivosIO.UnPabellon
-ejemplos.lwp.archivosIO.Ventana
-ejemplos.lwp.archivosIO.Ventana$6
-ejemplos.lwp.archivosIO.Ventana$4
-ejemplos.lwp.archivosIO.Ventana$5
-ejemplos.lwp.archivosIO.Pabellon
